@@ -26,6 +26,9 @@ pD 2
 ## Show call graph of function
 VV @ sym.main
 
+## Expressions let us do math and stuff via cmdline
+? 0x8 + 4
+
 ## Seek to a specific memory location
 s 0x08048470
 
