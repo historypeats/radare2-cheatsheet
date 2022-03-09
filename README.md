@@ -36,7 +36,7 @@ s 0x08048470
 wx eb
 
 ## Debugging/Visual Mode
-https://radare.gitbooks.io/radare2book/content/introduction/basic_debugger_session.html
+https://book.rada.re/first_steps/basic_debugger_session.html
 
 
 ## Set breakpoint
